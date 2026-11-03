@@ -136,6 +136,7 @@ $ isipsafe categories --json
 
 ## Links
 
+- Official Usage Page: [isipsafe.com/integrations/nodejs](https://isipsafe.com/integrations/nodejs)
 - Website: [isipsafe.com](https://isipsafe.com)
 - API reference: [isipsafe.com/api](https://isipsafe.com/api)
 - Python client: [isipsafe on PyPI](https://pypi.org/project/isipsafe/)
